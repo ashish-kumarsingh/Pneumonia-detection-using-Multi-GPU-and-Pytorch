@@ -1,7 +1,7 @@
 # Pneumonia-detection-using-Multi-GPU-and-Pytorch
 
 Pneumonia has been one of the fatal
-diseases and has the potential to result in severe
+diseases & has the potential to result in severe
 consequences within a short period of time, due to
 the flow of fluid in lungs, which leads to drowning.
 If not acted upon by drugs at the right time,
