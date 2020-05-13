@@ -21,7 +21,7 @@ implemented two models, VGG16 and
 DenseNet121. We achieved better accuracy with
 DenseNet121. Our findings yield an accuracy of
 87.10 % using a single GPU without data
-parallelism and an accuracy of 89.40 % using 4
+parallelism & an accuracy of 89.40 % using 4
 GPUs with data parallelism. Also, the time
 required to train the model using 4 GPUs is a lot
 faster than training on a single GPU.
